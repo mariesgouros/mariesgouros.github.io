@@ -17,7 +17,11 @@ $(document).ready(function() {
 
 });
 
-<button onclick="myFunction(document.getElementsByTagName("BODY")[0].style.backgroundColor = "black";)">Click me</button>
+window.onclick = myFunction;
+
+function myFunction() {
+    document.getElementsByTagName("BODY")[0].style.backgroundColor = "black";
+  }
 
 });
 
