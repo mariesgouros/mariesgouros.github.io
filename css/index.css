@@ -16,7 +16,8 @@ body {
 	height: 30%;
 	width: 10%;
 	position: absolute;
-	margin: 100px, 30px, 30px, 30px;
+	margin: 30px, 30px, 30px, 100px;
+	padding-left: 20px;
 }
 
 .imgTroll {
