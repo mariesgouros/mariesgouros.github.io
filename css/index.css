@@ -15,7 +15,7 @@ body {
 .ProfilePic {
 	height: 30%;
 	width: 10%;
-	position: absolute;
+	position: relative;
 	margin: 100px, 100px, 100px, 100px;
 	padding-left: 50px;
 	padding-right: 50px;
@@ -31,7 +31,7 @@ body {
 	background-color: rgb(100, 200, 300);
 	border: 1px solid;
 	border-radius: 20px;
-	position: relative;
+	position: absolute;
 	margin: 10px, 10px, 10px, 10px;
 }
 
