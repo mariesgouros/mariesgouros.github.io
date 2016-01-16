@@ -12,6 +12,11 @@ body {
 	background-color: rgb(100, 200, 200);
 }
 
+.ProfilePic {
+	height: 20%;
+	width: 20%;
+}
+
 .imgTroll {
 	content: url(http://www.whitec0de.com/wp-content/uploads/2012/07/424990_242478255870052_235546757_n.jpg);
 }
