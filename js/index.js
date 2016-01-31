@@ -1,4 +1,4 @@
-$(document).ready(function() {
+/*$(document).ready(function() {
 
 
   $("p").on("click", function() {
@@ -23,7 +23,7 @@ function myFunction() {
     document.getElementsByTagName("BODY")[0].style.backgroundColor = "black";
   }
 
-});
+}); */
 
 
 
