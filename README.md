@@ -1,2 +1,2 @@
 # mariesgouros.github.io
-Website made during JADE
+Website started during JADE
