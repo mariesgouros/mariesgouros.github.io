@@ -56,6 +56,9 @@ section.module.parallax-2 {
 section.module.parallax-3 {
   background-image: url("http://www.lettersmarket.com/uploads/lettersmarket/demo/background_gradient_basic/background_gradient_blue_04/background_gradient_blue_04_jpg_max.jpg");
 }
+section.module.parallax-4 {
+  background-image: url("http://eskipaper.com/images/light-blue-background-1.jpg");
+}
 
 @media all and (min-width: 600px) {
   section.module h2 {
