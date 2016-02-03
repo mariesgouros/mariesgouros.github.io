@@ -10,6 +10,8 @@ body {
 	margin-bottom: 30px;
 	text-shadow: 1px 1px black;
 	background-color: rgb(100, 200, 200);
+	border: 1px solid;
+	border-radius: 20px;
 }
 
 .ProfilePic {
