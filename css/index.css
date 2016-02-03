@@ -20,8 +20,10 @@ section.module h2 {
 }
 section.module p {
   margin-bottom: 40px;
+  margin-left: 200px;
   font-size: 16px;
   font-weight: 300;
+  position: relative;
 }
 section.module p:last-child {
   margin-bottom: 0;
@@ -102,7 +104,7 @@ body {
 	padding-right: 50px;
 }
 
-.intro {
+/*.intro {
 	font-family: 'Alegreya Sans SC', sans-serif;
 	font-size: 20px;
 	line-height: 32.36px;
@@ -114,4 +116,4 @@ body {
 	margin-right: 200px;
 	margin-top: 60px;
 
-}
+} */
