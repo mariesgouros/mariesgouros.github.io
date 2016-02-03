@@ -19,6 +19,7 @@ section.module h2 {
 	line-height: 32.36px;
 }
 section.module p {
+  font-family: 'Alegreya Sans SC', sans-serif;
   margin-bottom: 40px;
   margin-left: 200px;
   font-size: 16px;
